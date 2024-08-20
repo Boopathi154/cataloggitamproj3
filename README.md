@@ -1,8 +1,8 @@
-# cataloggitamproj3
+# Online Auction System 
 
 
 Overview:-
-The Online Auction System is a console-based application that simulates the auction process. It allows users to create auctions, place bids, and manage auction outcomes efficiently. The system is designed to be user-friendly and ensures that all bids are conducted fairly, with notifications sent to bidders if they are outbid.
+This is a console-based application that simulates the auction process. It allows users to create auctions, place bids, and manage auction outcomes efficiently. The system is designed to be user-friendly and ensures that all bids are conducted fairly, with notifications sent to bidders if they are outbid.
 
 Features:-
 1)Create Auction: Users can create auctions by specifying an item name, starting price, bid increment, and whether to notify previous bidders when they are outbid.
